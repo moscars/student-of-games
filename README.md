@@ -1,1 +1,3 @@
 # student-of-games
+
+Implementation of [Student of Games](https://www.science.org/doi/10.1126/sciadv.adg3256) for exploring how it scales with hidden information on poker games. See [src/settings.cpp](https://github.com/moscars/student-of-games/blob/main/src/settings.cpp) for adjusting the parameters of the game. Training can be conducted with CUDA, Metal Performance Shader (MPS) or on CPU. The project is dependent on [LibTorch](https://pytorch.org/cppdocs/installing.html).
