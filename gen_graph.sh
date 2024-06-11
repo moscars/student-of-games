@@ -1,0 +1,1 @@
+dot -Tpng -Otree.dot tree.dot && dot -Tpng -OinfoGraph.dot infoGraph.dot
